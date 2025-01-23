@@ -24,7 +24,7 @@
     "@nuxtjs/robots": "^2.4.2",
     "@nuxtjs/sitemap": "^2.4.0",
     "bootstrap": "^4.5.2",
-    "bootstrap-vue": "^2.17.3",
+    "bootstrap-vue": "^2.23.1",
     "core-js": "^3.6.5",
     "got": "^11.8.0",
     "nuxt": "^2.14.6",
